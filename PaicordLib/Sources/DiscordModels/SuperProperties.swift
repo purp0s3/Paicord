@@ -321,20 +321,20 @@ public enum SuperProperties {
   public static func client_version() -> String {
     switch Gateway.Identify.ConnectionProperties.__defaultOS {
     case "iOS", "watchOS":
-      return "310.3"
+      return "318.0"
     case "Mac OS X":
-      return "0.0.372"
+      return "0.0.379"
     default:
-      return "0.0.372"
+      return "0.0.379"
     }
   }
 
   public static func client_build_number() -> Int? {
     switch Gateway.Identify.ConnectionProperties.__defaultOS {
     case "iOS", "watchOS":
-      return 91102
+      return 94578
     case "Mac OS X":
-      return 485097
+      return 507104
     default:
       return nil
     }
