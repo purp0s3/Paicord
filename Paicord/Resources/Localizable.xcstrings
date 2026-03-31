@@ -59,6 +59,9 @@
     "Add Theme" : {
 
     },
+    "Alerts" : {
+
+    },
     "An action required MFA to continue." : {
 
     },
@@ -83,7 +86,16 @@
     "Backup Code" : {
 
     },
+    "Cache" : {
+
+    },
+    "Cached images will be re-downloaded as needed." : {
+
+    },
     "Camera" : {
+
+    },
+    "Cancel" : {
 
     },
     "Check your phone!" : {
@@ -92,7 +104,16 @@
     "Choose an account" : {
 
     },
+    "Clear Cache" : {
+
+    },
+    "Clear image cache?" : {
+
+    },
     "ComponentsV2 unsupported" : {
+
+    },
+    "Control which types of alerts Paicord can send from System Settings." : {
 
     },
     "Copy" : {
@@ -116,16 +137,28 @@
     "Create Thread" : {
 
     },
+    "Current" : {
+
+    },
     "Delete" : {
 
     },
     "Delete Message" : {
 
     },
+    "Developer" : {
+
+    },
+    "Developer Mode" : {
+
+    },
     "Direct Messages" : {
 
     },
     "Dismiss" : {
+
+    },
+    "Display" : {
 
     },
     "Donate" : {
@@ -153,6 +186,9 @@
 
     },
     "Emojis" : {
+
+    },
+    "Enables additional logging and diagnostic tools. Only useful if you're building or debugging Paicord." : {
 
     },
     "Enjoying Paicord?" : {
@@ -200,10 +236,22 @@
     "If you like Paicord and would like to support its development, consider donating! You'll receive a Donator role in the Discord server and you'll receive custom badges!" : {
 
     },
+    "Image Cache" : {
+
+    },
+    "Increase Contrast" : {
+
+    },
     "Installed Themes" : {
 
     },
     "Join the [Paicord Server](https://discord.gg/fqhPGHPyaK) to manage badges!" : {
+
+    },
+    "Language" : {
+
+    },
+    "Larger Text" : {
 
     },
     "Log In" : {
@@ -227,6 +275,9 @@
     "Mention" : {
 
     },
+    "Motion & Animation" : {
+
+    },
     "Multi-Factor Authentication" : {
 
     },
@@ -245,6 +296,9 @@
     "ON" : {
 
     },
+    "Only Notify on Mentions & DMs" : {
+
+    },
     "Paicord" : {
 
     },
@@ -252,6 +306,9 @@
 
     },
     "Paicord Logs" : {
+
+    },
+    "Paicord uses your system language. Language and region preferences are managed in System Settings." : {
 
     },
     "Password" : {
@@ -264,6 +321,12 @@
 
     },
     "Quick Switcher" : {
+
+    },
+    "Reduce Motion" : {
+
+    },
+    "Region" : {
 
     },
     "Remind Me Later" : {
@@ -290,7 +353,13 @@
     "Settings" : {
 
     },
+    "Show Badge Count" : {
+
+    },
     "Show FLEX" : {
+
+    },
+    "Show Message Previews" : {
 
     },
     "Sketchy shit" : {
@@ -318,6 +387,9 @@
 
     },
     "Switch Account" : {
+
+    },
+    "System-level features like VoiceOver, switch control, and display accommodations can be configured in System Settings." : {
 
     },
     "This MFA method is not currently supported." : {
