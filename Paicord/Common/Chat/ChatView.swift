@@ -329,7 +329,7 @@ extension Notification.Name {
   )
 }
 extension SettingsView {
-  var chatSection: some SettingsContent {
+  var chatSection: some View { 
     SettingsGroup("Chat", systemImage: "message") {
       ChatSettingsRows()
       ChatSettingsView()
